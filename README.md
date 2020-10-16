@@ -6,7 +6,7 @@ python scrapyapp.py
 ## Post example
 
 URL : http://localhost:8083/scrape
-
+```python
 Body:
 
 {
@@ -34,3 +34,4 @@ Response :
   "url": "https://www.facebook.com/zappos/about/", 
   "weburl": null
 }
+```
