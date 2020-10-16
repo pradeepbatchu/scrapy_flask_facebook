@@ -1,0 +1,9 @@
+Scrapy
+pykafka
+crochet
+slugify
+subprocess.run==0.0.8
+Flask==1.1.2
+asyncio==3.4.3
+Flask-Cors==3.0.8
+flask-kafka==0.0.2
